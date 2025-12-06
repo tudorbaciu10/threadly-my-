@@ -18,6 +18,8 @@
 
             @include('landing.partials.main')
 
+            @include('landing.partials.business-section')
+
             @include('landing.partials.footer')
         </div>
     </body>
